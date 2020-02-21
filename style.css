@@ -1,0 +1,156 @@
+/* Common Styles */
+body{
+    font-family: 'Ubuntu', ;
+    margin: 0px;
+}
+h1{
+    font-size: 50px;
+    margin: 0px;
+}
+div{
+    width: 40%;
+    float: left;
+    border: 2px solid black;
+}
+
+/* First Section Styles */
+.name{
+    color: #EB4B79;
+    font-weight: 700;
+}
+.career_brief{
+    font-size: 20px;
+}
+.button_hire_me{
+    color: white;
+    background-color: #EB4B79;
+    padding: 10px 30px;
+    border-radius: 5px;
+    text-decoration: none;
+}
+.button_hire_me:hover{
+    color: black;
+}
+.personal_pic{
+    height: 100%;
+    width: 100%;
+}
+.first_section{
+    padding: 100px 50px;
+    height: 600px;
+    background-image: url(images/header-bg.png);
+    background-repeat: no-repeat;
+}
+.first_div{
+    padding: 10% 2% 0% 2%;
+}
+.second_div{
+    height: 100%;
+    padding: 1% 2% 1% 2%;
+}
+
+/* Second Section Styles */
+.second_section{
+    padding: 100px 50px;
+    height: 650px;
+    background-image: url(images/biography-bg.png);
+    background-repeat: no-repeat;
+}
+.third_div{
+    height: 100%;
+    padding: 1% 2% 1% 5%;
+}
+.fourth_div{
+    padding: 10% 2% 5% 2%;
+}
+.bio_pic{
+    height: 100%;
+    width: 100%;
+}
+.bio_brief{
+    font-size: 20px;
+}
+.button_download_cv{
+    color: white;
+    background-color: #EB4B79;
+    padding: 10px 30px;
+    border-radius: 5px;
+    text-decoration: none;
+}
+.button_download_cv:hover{
+    color: black;
+}
+
+/* Third Section Styles */
+.third_section{
+    padding: 100px 50px 0px 50px;
+    height: 400px;
+    background-image: url(images/latest-work-bg.png);
+    background-repeat: no-repeat;
+}
+.latest_work_title{
+    text-align: center;
+    margin-bottom: 30px;
+}
+.fifth_div{
+    margin: 10px;
+    width: 30%;
+}
+.sixth_div{
+    margin: 10px;
+    width: 30%;
+}
+.seventh_div{
+    margin: 10px;
+    width: 30%;
+}
+.work_sample_1{
+    margin: 10px;
+    padding: 5px;
+    height: 100%;
+    width: 100%;
+}
+.work_sample_2{
+    margin: 10px;
+    padding: 5px;
+    height: 100%;
+    width: 100%;
+}
+.work_sample_3{
+    margin: 10px;
+    padding: 5px;
+    height: 100%;
+    width: 100%;
+}
+
+/* Fourth Section  */
+.fourth_section{
+    margin-top: 50px;
+    padding: 100px 50px;
+    height: 300px;
+    background-image: url(images/footer-bg.png);
+    background-repeat: no-repeat;
+    text-align: center;
+    
+}
+.eighth_div{
+    float: none;
+    width: 100%;
+
+}
+.ninth_div{
+    float: none;
+    width: 100%;
+    background-color: #EB4B73;
+    margin: 0px 200px 0px 200px;
+    float: none;
+
+}
+.tenth_div{
+    float: none;
+    width: 100%;
+    padding-top: 50px;
+}
+.contact_mail{
+    font-size: 30px;
+}
