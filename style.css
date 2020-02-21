@@ -10,7 +10,7 @@ h1{
 div{
     width: 40%;
     float: left;
-    border: 2px solid black;
+    /* border: 2px solid black; */
 }
 
 /* First Section Styles */
